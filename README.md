@@ -1,9 +1,7 @@
 # SQL-PROJECT-pizza-sales
-This is my first project using sql query's for data analysis
-
 Introduction to the Pizza Sales Database
 
-The "pizza_sales.zip" database offers a comprehensive dataset capturing various aspects of pizza sales, providing valuable insights for analysis and decision-making in the pizza industry. This dataset is a valuable resource for understanding customer preferences, market trends, and operational efficiencies within the pizza business.
+The "pizza_sales" database offers a comprehensive dataset capturing various aspects of pizza sales, providing valuable insights for analysis and decision-making in the pizza industry. This dataset is a valuable resource for understanding customer preferences, market trends, and operational efficiencies within the pizza business.
 
 Key components of the database may include:
 
